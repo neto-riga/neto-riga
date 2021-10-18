@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🔭 I'm currently studying Applied Mathematics and Computing at UNAM.
-- 🌱 I’m currently learning sqlite.
-- 📫 How to reach me: [@ernesto_rg_](https://twitter.com/ernesto_rg_).
-- ⚡ Fun fact: This whole readme file haha.
+- 🌱 I’m currently learning sqlite and working with time series.
+- ⚡ Fun fact: Camping is part of my identity.
 
 I'm making my way to become a data scientist!<br><br>
 
