@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I currently study Applied Mathematics and Computing at UNAM.
+- 🔭 I'm currently studying Applied Mathematics and Computing at UNAM.
 - 🌱 I’m currently learning sqlite.
 - 📫 How to reach me: [@ernesto_rg_](https://twitter.com/ernesto_rg_).
 - ⚡ Fun fact: This whole readme file haha.
