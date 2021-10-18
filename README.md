@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🌱 I’m currently learning sqlite
-- 📫 How to reach me: [my twitter account](https://twitter.com/ernesto_rg_)
+- 📫 How to reach me: [@ernesto_rg_](https://twitter.com/ernesto_rg_)
 - ⚡ Fun fact: This whole readme file haha.
