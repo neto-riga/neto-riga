@@ -47,8 +47,8 @@ I'm making my way to become a data scientist!<br><br>
 
 ## Github Stats
 <div align="center">
-<img  alt="Neto's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=neto-riga&show_icons=true&include_all_commits=true&count_private=true&theme=react&title_color=4584b6&icon_color=FF7900&hide_border=true"  height="180"/>
-<img  alt="Neto's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto-riga&langs_count=10&layout=compact&theme=react&title_color=4584b6&hide_border=true"  height="180"/>
+<img  alt="Neto's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=neto-riga&show_icons=true&include_all_commits=true&count_private=true&theme=react&title_color=4584b6&icon_color=FF7900&hide_border=true"  height="170"/>
+<img  alt="Neto's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto-riga&langs_count=10&layout=compact&theme=react&title_color=4584b6&hide_border=true"  height="170"/>
 <br/>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br/>
