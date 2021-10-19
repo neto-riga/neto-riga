@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ## About me 🕺
 - 🔭 I'm currently studying Applied Mathematics and Computing at UNAM.
-- 🌱 Currently learning SQLite and working with time series.
+- 🌱 Currently learning SQLite and working with time series analysis.
 - ⚡ Fun fact: Camping is part of my identity.
 
 I'm making my way to become a data scientist!<br><br>
