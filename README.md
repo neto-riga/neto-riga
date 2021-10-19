@@ -23,7 +23,7 @@ I'm making my way to become a data scientist!<br><br>
 <br/>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
 <br/>
- <a href="#"><img alt="Neto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=neto-riga&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=948787&line=4584b6&point=ffde57&hide_border=true" height="350"/></a>
+ <a href="#"><img alt="Neto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=neto-riga&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=b5bfff&line=FF7900&point=f1fa8c&hide_border=true" height="350"/></a>
 <br/>
  
 <p align="center">
