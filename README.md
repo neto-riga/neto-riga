@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## About me 🕺
 - 🔭 I'm currently studying Data Science at UNAM.
 - 🌱 Currently learning and working with time series analysis.
-- ⚡ Fun fact: Living in the city, belonging to nature.
+- ⚡ Fun fact: Living in the city, belonging (*into the wild*)[https://www.imdb.com/title/tt0758758/].
 
 I'm making my way to become a data scientist!<br><br>
 ## Technologies and Tools I know
