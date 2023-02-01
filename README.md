@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 <img  alt="Neto's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neto-riga&langs_count=10&layout=compact&theme=react&title_color=4584b6&hide_border=true&include_all_commits=true"  height="170"/>
 <br/>
 <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-<br/>
- <a href="#"><img alt="Neto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=neto-riga&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0D1117&color=b5bfff&line=FF7900&point=f1fa8c&hide_border=true" height="350"/></a>
-<br/>
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=neto-riga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
